@@ -1,1 +1,4 @@
 # tokoCryptoProjectAssignment
+
+## yarn
+## yarn start
